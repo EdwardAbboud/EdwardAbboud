@@ -2,7 +2,7 @@
 
 <!--Intro section-->
 # **Welcome! My name is Edward Abboud**
-* ### I'm a web developer in the making at [Hack Your Future]'s bootcamp
+* ### I'm a web developer in the making at Hack Your Future's bootcamp - [HYF]
 * ### I speak 3 langauges flently (English, French and Arabic)
 * ### My longterm goal is to become a software engineer
 * ### I'm also a [musician/producer]
@@ -22,5 +22,5 @@
 [Instagram]: https://www.instagram.com/mindofmidist/?hl=en
 [LinkedIn]: https://www.linkedin.com/in/edward-abboud-6a4833b3/
 [SpotifyPlaylist]: https://open.spotify.com/playlist/32fqm8SvfrcyWrdz19z89u?si=38018aa232c347cc
-[Hack Your Future]: (https://www.hackyourfuture.net/)
+[HYF]: (https://www.hackyourfuture.net/)
 <!--End of external links section-->
