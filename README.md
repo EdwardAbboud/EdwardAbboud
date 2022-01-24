@@ -1,4 +1,4 @@
-<img src=EdwardAbboud/Images/backdrop.png>
+<img src=./images/backdrop.png>
 
 <!--Intro section-->
 # **Welcome! My name is Edward Abboud**
