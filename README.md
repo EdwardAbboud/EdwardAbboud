@@ -1,7 +1,7 @@
 
 <!--Intro section-->
 # **Welcome! My name is Edward Abboud**
-* ### I'm a web developer in the making at [Hack Your Future]'s bootcamp
+* ### I'm a full stack web developer
 * ### I speak 3 langauges flently (English, French and Arabic)
 * ### My longterm goal is to become a software engineer
 * ### I'm also a [musician/producer]
