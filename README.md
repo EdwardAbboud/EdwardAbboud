@@ -29,6 +29,8 @@
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;&nbsp;
 <img alt="API" width="26px" src="https://mpng.subpng.com/20180805/lbf/kisspng-application-programming-interface-computer-icons-r-%D8%A8%D9%87%D9%85%D9%86-%DB%B1%DB%B3%DB%B9%DB%B6-%D9%86%D9%88%D8%B1%D8%A8%D8%B1%D8%AA-%D8%AA%DB%8C%D9%85-%D9%86%D9%88%D8%B1%D8%A8%D8%B1-5b675e652c2f65.425644441533501029181.jpg" />&nbsp;&nbsp;
 <img alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />&nbsp;&nbsp;
+<img alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />&nbsp;&nbsp;
+<img alt="MongoDb" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />&nbsp;&nbsp;
 
 <!-- End of 'Platforms i use' section-->
 
