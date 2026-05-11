@@ -1,15 +1,13 @@
 
 <!--Intro section-->
 # **Welcome! My name is Edward Abboud**
-* ### I'm a full stack web developer
-* ### I speak 3 langauges flently, so feel free to get in touch!
 * ### My current focus is enhancing development environments for collaboartions
 <!--End of Intro section-->
 <br>
 
 <!--Links and Logos-->
 ## **Get in touch**
-<a href="https://www.linkedin.com/in/edward-abboud/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="linkedin logo" height=30px></a>&nbsp;&nbsp;&nbsp;
+<a href="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png" alt="linkedin logo" height=30px></a>&nbsp;&nbsp;&nbsp;
 <!-- End of Links and Logos section-->
 <br>
 
