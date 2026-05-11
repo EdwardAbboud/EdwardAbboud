@@ -8,7 +8,7 @@
 <!--Links and Logos-->
 ## **Get in touch**
 <a href="https://www.linkedin.com/in/edward-abboud/" alt="linkedin logo" height=30px>
-  <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" />
+  <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" width="100px" />
 </a>&nbsp;&nbsp;&nbsp;
 <!-- End of Links and Logos section-->
 <br>
