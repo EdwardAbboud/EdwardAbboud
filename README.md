@@ -7,7 +7,9 @@
 
 <!--Links and Logos-->
 ## **Get in touch**
-<a href="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png" alt="linkedin logo" height=30px></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/edward-abboud/" alt="linkedin logo" height=30px>
+  <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" />
+</a>&nbsp;&nbsp;&nbsp;
 <!-- End of Links and Logos section-->
 <br>
 
